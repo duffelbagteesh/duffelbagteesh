@@ -2,7 +2,7 @@
 
 ### I'm Leticia Fernandes
 - A Full-Stack Developer & Open Source enthusiast. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- Currently working on adding some cool features to my <a href="https://github.com/duffelbagteesh/projekt-deezer3.0">SpleeterDeezer</a> project. <img src="https://media.giphy.com/media/mZewejKD13i2COlkMk/giphy.gif" width="30">
+- Working on adding some cool features to my <a href="https://github.com/duffelbagteesh/projekt-deezer3.0">SpleeterDeezer</a> project. <img src="https://media.giphy.com/media/mZewejKD13i2COlkMk/giphy.gif" width="30">
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 <a href="https://github.com/duffelbateesh/github-readme-stats">
